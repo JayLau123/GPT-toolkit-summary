@@ -37,7 +37,7 @@ Chrome plugin: https://chrome.google.com/webstore/detail/voice-control-for-chatg
 
 <img width="1034" alt="Screenshot 2023-04-01 at 12 34 16" src="https://user-images.githubusercontent.com/98719524/229305963-698caed1-30cb-4f5f-811d-8250257ca19a.png">
 
-### ChatExcel: an AI-assisted tool for interactive control of Excel through text chat. https://chatexcel.com/
+### ChatExcel: An AI-assisted tool for interactive control of Excel through text. https://chatexcel.com/
 
 <img width="1018" alt="Screenshot 2023-04-01 at 12 33 26" src="https://user-images.githubusercontent.com/98719524/229305936-edfb2074-4948-402b-b9ed-99c3a33cf662.png">
 
