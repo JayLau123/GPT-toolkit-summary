@@ -15,6 +15,12 @@ Note: Most AI tools are required the OpenAI API Key before usage.
 
 ### Bing client BingGPT: https://github.com/dice2o/BingGPT
 
+
+### ChatGPT plugin for browser. https://www.chatgpt-sidebar.com/
+
+<img width="971" alt="Screenshot 2023-04-02 at 18 47 49" src="https://user-images.githubusercontent.com/98719524/229385541-64432b7a-fbe3-4907-8571-f815edec9624.png">
+
+
 ## Other GPT related tools
 
 ### SpeechGPT: English learning assistant. https://speechgpt.app/
@@ -64,9 +70,39 @@ How about creat an AI-Einstein to solve the problem of superconductor nowadays?
 
 <img width="900" alt="Screenshot 2023-04-02 at 17 05 55" src="https://user-images.githubusercontent.com/98719524/229381453-e5ef6d15-0ffe-41bf-b42b-9eb93b44c924.png">
 
+### Codeium: Similar to Copilot with VS Code plugin, free for personal use. https://codeium.com/
+
+<img width="1400" alt="Screenshot 2023-04-02 at 18 26 06" src="https://user-images.githubusercontent.com/98719524/229384703-d89b77be-a970-443b-92ea-f6b95c1153be.png">
+
+### Copilot-x : New code editor developed by GitHub. https://github.com/features/preview/copilot-x
+
+<img width="1414" alt="Screenshot 2023-04-02 at 18 30 26" src="https://user-images.githubusercontent.com/98719524/229384840-4da1ba5c-d45b-4ad4-9c27-f40e4abbdcd1.png">
+
+
+
+
 ### Open AI official handbook: https://github.com/openai/openai-cookbook
 
-### Open AI + Python: https://github.com/openai/openai-python
+### Open AI + Python: The OpenAI Python library provides access to the OpenAI API from applications written in the Python. https://github.com/openai/openai-python
+
+### Open AI + VS Code: https://github.com/gencay/vscode-chatgpt
+
+### ChatGPT+ Shell: https://github.com/TheR1D/shell_gpt
+
+### GPT commit: A git prepare-commit-msg hook for authoring commit messages with GPT-3. https://github.com/zurawiki/gptcommit
+
+### AutoDoc-ChatGPT: A Python script automatically generates documentation for any programming language. https://github.com/awekrx/AutoDoc-ChatGPT
+
+
+
+
+### ChatGPT-next-web: Quickly deploy your own ChatGPT web UI. https://github.com/Yidadaa/ChatGPT-Next-Web
+
+### SQL Chat: Chat to generate SQL database. https://github.com/sqlchat/sqlchat
+
+### ChatBot-UI: Build your own ChatGPT website. https://github.com/mckaywrigley/chatbot-ui
+
+
 
 
 
