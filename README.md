@@ -50,6 +50,23 @@ Chrome plugin: https://chrome.google.com/webstore/detail/voice-control-for-chatg
 
 <img width="991" alt="Screenshot 2023-04-01 at 12 36 37" src="https://user-images.githubusercontent.com/98719524/229306050-a980c453-417d-40e9-91ac-d872c60b87e2.png">
 
+### Copilot Hub: Train your own LLM with your own data. https://app.copilothub.co/home
+
+How about creat an AI-Einstein to solve the problem of superconductor nowadays?
+
+<img width="1440" alt="Screenshot 2023-04-02 at 16 18 01" src="https://user-images.githubusercontent.com/98719524/229379501-d23a511d-dbbe-4139-acdc-f117653b5eb4.png">
+
+### ChatMind: Conversational mind map with AI. https://www.chatmind.tech/
+
+<img width="1185" alt="Screenshot 2023-04-02 at 16 59 10" src="https://user-images.githubusercontent.com/98719524/229381268-2fb3a6bb-39a5-4a6b-86d5-a3af82d3ce1a.png">
+
+### Open GPT: Develop your own ChatGPT applications. https://open-gpt.app/en
+
+<img width="900" alt="Screenshot 2023-04-02 at 17 05 55" src="https://user-images.githubusercontent.com/98719524/229381453-e5ef6d15-0ffe-41bf-b42b-9eb93b44c924.png">
+
+### Open AI official handbook: https://github.com/openai/openai-cookbook
+
+### Open AI + Python: https://github.com/openai/openai-python
 
 
 
