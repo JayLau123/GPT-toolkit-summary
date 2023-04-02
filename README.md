@@ -1,5 +1,6 @@
 # GPT-toolkit-summary.
-A collection of all kinds of useful AI tools. New productivity tool!
+🛠️ A collection of all kinds of useful AI tools. There's always a tool designed for you！
+
 
 Note: Most AI tools are required the OpenAI API Key before usage.
 
