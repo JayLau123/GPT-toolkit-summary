@@ -115,7 +115,9 @@ https://labs.openai.com/
 
 https://stablediffusionweb.com/
 
-#### AI for PPT. https://beta.tome.app/
+#### AI for PPT. 
+
+https://beta.tome.app/
 
 #### AI for speech and videos. 
 
