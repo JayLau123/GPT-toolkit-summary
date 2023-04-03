@@ -78,7 +78,9 @@ How about creat an AI-Einstein to solve the problem of superconductor nowadays?
 
 <img width="1414" alt="Screenshot 2023-04-02 at 18 30 26" src="https://user-images.githubusercontent.com/98719524/229384840-4da1ba5c-d45b-4ad4-9c27-f40e4abbdcd1.png">
 
+### ChatGPT short cut: Maximize your Efficiency and Productivity. https://ai.newzone.top/en/?tags=games
 
+<img width="1339" alt="Screenshot 2023-04-02 at 18 59 47" src="https://user-images.githubusercontent.com/98719524/229386077-c6fca91e-55e3-4769-bab0-9d1aa79a23e7.png">
 
 
 ### Open AI official handbook: https://github.com/openai/openai-cookbook
@@ -93,14 +95,15 @@ How about creat an AI-Einstein to solve the problem of superconductor nowadays?
 
 ### AutoDoc-ChatGPT: A Python script automatically generates documentation for any programming language. https://github.com/awekrx/AutoDoc-ChatGPT
 
-
-
-
 ### ChatGPT-next-web: Quickly deploy your own ChatGPT web UI. https://github.com/Yidadaa/ChatGPT-Next-Web
 
 ### SQL Chat: Chat to generate SQL database. https://github.com/sqlchat/sqlchat
 
 ### ChatBot-UI: Build your own ChatGPT website. https://github.com/mckaywrigley/chatbot-ui
+
+### TaxyAI: Automate your browser with GPT-4. https://github.com/TaxyAI/browser-extension
+
+### ChatGPT for Email - Remail. https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk
 
 
 
