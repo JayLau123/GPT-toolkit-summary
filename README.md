@@ -83,27 +83,50 @@ How about creat an AI-Einstein to solve the problem of superconductor nowadays?
 <img width="1339" alt="Screenshot 2023-04-02 at 18 59 47" src="https://user-images.githubusercontent.com/98719524/229386077-c6fca91e-55e3-4769-bab0-9d1aa79a23e7.png">
 
 
-### Open AI official handbook: https://github.com/openai/openai-cookbook
+#### Open AI official handbook: https://github.com/openai/openai-cookbook
 
-### Open AI + Python: The OpenAI Python library provides access to the OpenAI API from applications written in the Python. https://github.com/openai/openai-python
+#### Open AI + Python: The OpenAI Python library provides access to the OpenAI API from applications written in the Python. https://github.com/openai/openai-python
 
-### Open AI + VS Code: https://github.com/gencay/vscode-chatgpt
+#### Open AI + VS Code: https://github.com/gencay/vscode-chatgpt
 
-### ChatGPT+ Shell: https://github.com/TheR1D/shell_gpt
+#### ChatGPT+ Shell: https://github.com/TheR1D/shell_gpt
 
-### GPT commit: A git prepare-commit-msg hook for authoring commit messages with GPT-3. https://github.com/zurawiki/gptcommit
+#### GPT commit: A git prepare-commit-msg hook for authoring commit messages with GPT-3. https://github.com/zurawiki/gptcommit
 
-### AutoDoc-ChatGPT: A Python script automatically generates documentation for any programming language. https://github.com/awekrx/AutoDoc-ChatGPT
+#### AutoDoc-ChatGPT: A Python script automatically generates documentation for any programming language. https://github.com/awekrx/AutoDoc-ChatGPT
 
-### ChatGPT-next-web: Quickly deploy your own ChatGPT web UI. https://github.com/Yidadaa/ChatGPT-Next-Web
+#### ChatGPT-next-web: Quickly deploy your own ChatGPT web UI. https://github.com/Yidadaa/ChatGPT-Next-Web
 
-### SQL Chat: Chat to generate SQL database. https://github.com/sqlchat/sqlchat
+#### SQL Chat: Chat to generate SQL database. https://github.com/sqlchat/sqlchat
 
-### ChatBot-UI: Build your own ChatGPT website. https://github.com/mckaywrigley/chatbot-ui
+#### ChatBot-UI: Build your own ChatGPT website. https://github.com/mckaywrigley/chatbot-ui
 
-### TaxyAI: Automate your browser with GPT-4. https://github.com/TaxyAI/browser-extension
+#### TaxyAI: Automate your browser with GPT-4. https://github.com/TaxyAI/browser-extension
 
-### ChatGPT for Email - Remail. https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk
+#### ChatGPT for Email - Remail. https://chrome.google.com/webstore/detail/chatgpt-for-email-remail/jjplpolfahlhoodebebfjdbpcbopcmlk
+
+
+
+#### AI for drawing. 
+
+https://www.midjourney.com/home/
+
+https://labs.openai.com/
+
+https://stablediffusionweb.com/
+
+#### AI for PPT. https://beta.tome.app/
+
+#### AI for speech and videos. 
+
+https://murf.ai/
+
+https://www.resemble.ai/
+
+https://www.synthesia.io/
+
+https://podcast.adobe.com/
+
 
 
 
