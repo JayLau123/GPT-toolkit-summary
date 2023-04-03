@@ -130,7 +130,7 @@ https://www.synthesia.io/
 https://podcast.adobe.com/
 
 
-
+Thanks for Sam Altman. https://moores.samaltman.com/
 
 
 
