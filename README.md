@@ -1,9 +1,9 @@
 # GPT-toolkit-summary.
 🛠️ There's always a tool designed for you！
 
-The Age of AI has begun
-By Bill Gates| March 21, 2023
-https://www.gatesnotes.com/The-Age-of-AI-Has-Begun
+Thanks for Sam Altman. https://moores.samaltman.com/
+
+Thanks for Bill Gates: The Age of AI has begun. https://www.gatesnotes.com/The-Age-of-AI-Has-Begun
 
 
 Note: Most AI tools are required the OpenAI API Key before usage.
@@ -134,7 +134,7 @@ https://www.synthesia.io/
 https://podcast.adobe.com/
 
 
-Thanks for Sam Altman. https://moores.samaltman.com/
+
 
 
 
