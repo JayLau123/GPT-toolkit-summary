@@ -10,6 +10,10 @@ Note: Most AI tools are required the OpenAI API Key before usage.
 
 <img width="1423" alt="Screenshot 2023-04-01 at 12 02 03" src="https://user-images.githubusercontent.com/98719524/229304516-fafa5ca3-ab4e-4ef6-8d94-7640c81a9239.png">
 
+## Learning Prompt
+
+https://learningprompt.wiki/docs/chatgpt-learning-path
+
 
 ## Microsoft Bing: 
 
